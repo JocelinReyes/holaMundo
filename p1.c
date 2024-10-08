@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main (){
-    printf ("Hello word");
+    printf ("Hello word O Hola Mundo");
     system ("Pause");
     return 0;
 }
