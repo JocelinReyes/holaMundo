@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main (){
-    printf ("Hello word O Hola Mundo");
+    printf ("Hello word o Hola Mundo"); // imprime el mensaje 
     system ("Pause");
     return 0;
 }
